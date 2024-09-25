@@ -21,8 +21,8 @@
     "ABSOLUTES": [
         ""
     ],
-    "NAME": "chilli bot",
-    "PREFIX": "!",
+    "NAME": "tatin",
+    "PREFIX": "?",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
